@@ -1,2 +1,2 @@
-# Gmae_Othello
+# Game_Othello
 Borad game Othello
