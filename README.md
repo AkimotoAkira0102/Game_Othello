@@ -1,2 +1,2 @@
 # Game_Othello
-Borad game Othello
+Borad game Othello with c++.
